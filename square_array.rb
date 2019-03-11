@@ -1,6 +1,6 @@
 def square_array(numbers)
   squared = []
-  numbers.each { |num| squared << num*num}
+  numbers.each { |element| squared << element*element}
 end
 
 
